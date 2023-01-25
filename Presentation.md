@@ -89,9 +89,13 @@ Require access to our resources
 - Mobile apps
 - Other hosted services (machine-to-machine)
 
+---
+
 ## OAuth2: Providers
 
 Offload the stress of authenticting
+
+![](images/auth_providers.png)
 
 
 
