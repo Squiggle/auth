@@ -6,9 +6,10 @@ class:
   - invert
 ---
 <style>
-p {
+section p {
   text-align: left;
 }
+h2 img { width: 180px; }
 </style>
 
 # So you want to build a web app with auth?
@@ -21,7 +22,7 @@ Technology Principal, Club Hamilton
 
 **AND Digital**
 
-![](images/and_logo.webp)
+## ![](images/and_logo.webp)
 
 ---
 
