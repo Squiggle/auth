@@ -1,2 +1,4 @@
 bin/
 obj/
+Example/appsettings.json
+.DS_Store
